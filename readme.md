@@ -9,7 +9,7 @@ Criar um Snake Game utilizando conceitos básicos em HTML5, CSS e JavaScript.
 
 <p align="center">
 
-  ![](https://github.com/Gerolineto/Jogo-da-Cobrinha/blob/master/demonstration/print.jpg)
+  ![](https://github.com/Gerolineto/Jogo-da-Cobrinha/blob/master/demonstration/print.JPG)
 
 </p>
 
